@@ -1,0 +1,2 @@
+rootProject.name='HackPrep Android API'
+include ':app'
